@@ -1,1 +1,1 @@
-# CodeAlpha_ML_Intern
+# CodeAlpha_LiverDiseasePrediction
