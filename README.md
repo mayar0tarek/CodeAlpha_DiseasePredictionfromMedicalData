@@ -6,11 +6,12 @@ This project is on disease prediction using medical data, focusing on liver dise
 **Methodology Highlights: Data Collection -> Preprocessing -> Feature Engineering -> Model Development -> Model Evaluation**
 
 **1. Data Collection:** 
-      - Data source: https://www.kaggle.com/datasets/abhi8923shriv/liver-disease-patient-dataset/data
+     
+        - Data source: https://www.kaggle.com/datasets/abhi8923shriv/liver-disease-patient-dataset/data
 
-      - Feature number: 10
+        - Feature number: 10
 
-      - Dataset rows: 30691
+        - Dataset rows: 30691
 
    **Features description:**
 
